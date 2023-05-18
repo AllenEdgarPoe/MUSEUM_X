@@ -1,0 +1,3 @@
+[submodule "SD_symphony"]
+	path = SD_symphony
+	url = https://github.com/AllenEdgarPoe/SD_symphony.git

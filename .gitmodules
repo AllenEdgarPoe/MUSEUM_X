@@ -4,3 +4,6 @@
 [submodule "SD_composer"]
 	path = SD_composer
 	url = https://github.com/AllenEdgarPoe/SD_composer.git
+[submodule "SD_Ensemble"]
+	path = SD_Ensemble
+	url = https://github.com/AllenEdgarPoe/SD_Ensemble.git

@@ -12,7 +12,12 @@ MuseumX is a PlayGround
 
 ![sketcherx_ces](https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/b05da5c7-23da-41d9-8812-cc568be97f87)
 
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/44c252c1-007f-44b0-9f47-21d56c4318cf
 
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/0fa12c8f-7c0f-4692-a96e-ea76a737eef8
+
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/44c252c1-007f-44b0-9f47-21d56c4318cf
+Listen to how well the robot responds! (+ the robot's movement and facial expressions)
 
 SketcherX was first exhibited at CES 2023 and became a sensation. which The girl in white hoodie is me! 
 
@@ -45,9 +50,13 @@ https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/04f23c48-40f0-4dd0-839
 
 
 ### 2. Composer 
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/392c5165-7373-470f-9215-cb26404f0bdf
 Via KakaoTalk, the user will have conversation with ChatGPT chatbot, and it will draw desirable painting. 
 ![Composer Chat](https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/18324937-710d-4a8f-a715-6f8e2ee70d4b)
 
 ### 3. Symphony 
 Enjoy High-quality AI-Daily-generated Video in a big surrounded room! 
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/2d19162f-168f-4ce6-a0c5-55c47ac13a32
+
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/3bd8cf56-e605-4c49-b76d-3b83a2c29c2f
 ![image](https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/4ff8a162-1091-4273-a4c1-0ff5f8c37b38)

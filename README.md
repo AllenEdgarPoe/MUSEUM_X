@@ -17,6 +17,7 @@ https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/44c252c1-007f-44b0-9f4
 https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/0fa12c8f-7c0f-4692-a96e-ea76a737eef8
 
 https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/44c252c1-007f-44b0-9f47-21d56c4318cf
+
 Listen to how well the robot responds! (+ the robot's movement and facial expressions)
 
 SketcherX was first exhibited at CES 2023 and became a sensation. which The girl in white hoodie is me! 

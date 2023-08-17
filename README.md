@@ -42,22 +42,31 @@ SketcherX was first exhibited at CES 2023 and became a sensation. which The girl
 
 ## Brief Examples
 ### 1. Ensemble 
-* Using ControlNet (SD), it converts the user guided sketch into artistic format of butterfly 
+
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/04f23c48-40f0-4dd0-839d-1797e5a3e4c7
+
+* Using ControlNet (SD), it converts the user guided sketch into artistic format of butterfly
   * ![test0](https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/92dc387c-3584-422e-ad5a-cb3d7753cf6d)
 * Then, it is converted into moving form of butterfly and the user can freely activate the butterfly to diverse directions
   ![ezgif-1-8d4fbb9551](https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/94f8b75c-ce24-401d-ac0b-ab0acad3288f)
 
-https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/04f23c48-40f0-4dd0-839d-1797e5a3e4c7
+
 
 
 ### 2. Composer 
-https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/392c5165-7373-470f-9215-cb26404f0bdf
+
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/9ae6a9e7-a8a7-4588-a1b1-ce770db4e6de
+
 Via KakaoTalk, the user will have conversation with ChatGPT chatbot, and it will draw desirable painting. 
 ![Composer Chat](https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/18324937-710d-4a8f-a715-6f8e2ee70d4b)
 
 ### 3. Symphony 
 Enjoy High-quality AI-Daily-generated Video in a big surrounded room! 
+
 https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/2d19162f-168f-4ce6-a0c5-55c47ac13a32
 
 https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/3bd8cf56-e605-4c49-b76d-3b83a2c29c2f
+
+https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/13ffc741-8fab-4ccd-ade7-c9eac95b9a5b
+
 ![image](https://github.com/AllenEdgarPoe/MUSEUM_X/assets/43398106/4ff8a162-1091-4273-a4c1-0ff5f8c37b38)
